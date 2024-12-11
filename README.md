@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Sergio 👋
 
-<!--
-**boffis2002/boffis2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer student with expertise in JavaScript, Vue, Python, C. I love building web applications, contributing to open-source projects, and continuously learning.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Web applications.
+- Graphics softwares.
+- Applicate algorithms and data structures in C programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- JavaScript
+- Python
+- C
+- C++
+- Racket
+- Node.js
+- Pyspark
+- Mongodb
+- MySQL
+- Vue
+- HTML
+- CSS
+- Git
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=boffis2002&show_icons=true&count_private=true&theme=radical)
+
+## 🔥 GitHub Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=boffis2002)
