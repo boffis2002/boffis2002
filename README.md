@@ -17,7 +17,7 @@ My name is Sergio Boffi. I am a Bachelor student at USI in Lugano.
 ![](https://img.shields.io/badge/Code-Racket-informational?style=flat&logo=racket&logoColor=white&color=ee672f)
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mario92&show_icons=true&count_private=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=boffis2002&show_icons=true&count_private=true&theme=radical)
 
 ## 🔥 GitHub Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mario92)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=boffis2002)
