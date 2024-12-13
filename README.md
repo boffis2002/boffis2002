@@ -18,6 +18,3 @@ My name is Sergio Boffi. I am a Bachelor student at USI in Lugano.
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=boffis2002&show_icons=true&count_private=true&theme=radical)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boffis2002)
