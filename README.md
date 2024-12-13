@@ -1,6 +1,8 @@
 # Hi there :wave:
 
-My name is Sergio Boffi. I am a Bachelor student at USI in Lugano. 
+My name is Sergio Boffi, i'm 22 years old and i live in Lugano.
+I have studied at ITIS Marconi in Dalmine(BG) Italy, and after graduating i moved to Lugano in order to graduate in Computer Science at USI.
+
 
 ## :wrench: Technologies and Tools
 
@@ -18,3 +20,4 @@ My name is Sergio Boffi. I am a Bachelor student at USI in Lugano.
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=boffis2002&show_icons=true&count_private=true&theme=radical)
+i
