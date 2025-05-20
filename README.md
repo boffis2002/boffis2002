@@ -17,6 +17,7 @@ I have studied at ITIS Marconi in Dalmine(BG) Italy, and after graduating i move
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Code-Racket-informational?style=flat&logo=racket&logoColor=white&color=ee672f)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=Go&logoColor=white&color=ee672f)
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=boffis2002&show_icons=true&count_private=true&theme=radical)
